@@ -13,7 +13,7 @@ Data manipulation with Dplyr
 Data visualization with R
 
 ANALYSIS AND FINDINGS
-1. sentimental analysis;To know the feeling of the customers 
+1. sentimental analysis;To know the feeling of the customers. 
  positive sentiment has a percentage of 67.5% while  negative is 32.5%
 2. The most used word were, Airway, uncomfortable, airway, good, and seat.
 
