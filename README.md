@@ -7,13 +7,16 @@ The airline is the second largest UK-based carrier, based on fleet size and pass
 
 METHODOLOGY
 
-R Studio for getting data from website
-Web scraping in R using Selector Gadget and Rvest
-Data manipulation with Dplyr
-Data visualization with R
+1. RStudio for getting data from website
+
+2. Webscraping in R using Selector Gadget and Rvest
+
+3. Data manipulation with Dplyr
+
+4. Data visualization with R
 
 ANALYSIS AND FINDINGS
-1. sentimental analysis;To know the feeling of the customers. 
+1. Setimental analysis;To know the feeling of the customers. 
  positive sentiment has a percentage of 67.5% while  negative is 32.5%
 2. The most used word were, Airway, uncomfortable, airway, good, and seat.
 
